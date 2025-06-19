@@ -1,3 +1,5 @@
 Metody analizy danych
+
 Polina Bezukladnova
-Grupa 3
+
+L3
